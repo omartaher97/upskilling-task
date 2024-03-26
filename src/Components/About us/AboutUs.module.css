@@ -1,0 +1,30 @@
+.bg1{
+
+    background-image: url(../../assets/Rectangle\ 262.png);
+    background-size: 100% 100%;
+    color: white;
+
+}
+
+.bg2{
+    background-image: url(../../assets/Vector\ 8.png);
+    background-size: 70% 100%;
+    background-position-x:right ;
+    background-repeat: no-repeat;
+
+    z-index: 99999;
+}
+
+.about{
+    padding-left: 50px;
+}
+.btn{
+    background-color: #EEC04B;
+    width: 150px;
+    height: 50px;
+    border: transparent;
+    border-radius: 27px;
+    color: #000000;
+    margin-top: 70px;
+    display: block;
+}

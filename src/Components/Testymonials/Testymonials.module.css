@@ -1,0 +1,15 @@
+.h2{
+    color: #6D91EE;
+    text-align: center;
+    line-height: 5.5938rem;
+}
+
+.item{
+    border: solid 1px #506cb3;
+    border-radius: 27px;
+   width: 500px;
+}
+
+.blue{
+    color: #324473;
+}
